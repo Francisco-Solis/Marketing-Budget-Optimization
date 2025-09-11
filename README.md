@@ -13,7 +13,7 @@ This project models an optimization problem in **MATLAB** where the goal is to f
 2. Optimization toolbox installed
 
 # Key Finding:
-The optimization model selected Coca Cola (ad 2) and YerbaMate (ad 5) as the profit-maximizing advertisements. This combination yields a maximum profit of $1,500, the highest achievable under the given conflict constraints. The result highlights how integer optimization ensures feasible selections while still prioritizing the most profitable options.
+The optimization model selected Coca Cola (ad 2) and YerbaMate (ad 5) as the profit-maximizing advertisements. This combination yields a **maximum profit of $1,500**, the highest achievable under the given conflict constraints. The result highlights how integer optimization ensures feasible selections while still prioritizing the most profitable options.
 
 # Contributions:
-Future work could focus on visualization, extending the model to handle a larger set of advertisements with more complex conflict networks. Additional constraints such as budget limits, time restrictions, or audience reach requirements could also be incorporated to reflect more realistic advertising scenarios.
+This repository was created as a part of my portfolio Contributions to the code could focus on  data visualization, extending the model to handle a larger set of advertisements with more complex conflict networks. Additional constraints such as time restrictions, or audience reach requirements could also be incorporated to reflect more realistic advertising scenarios.
