@@ -16,5 +16,6 @@ This project models an optimization problem in **MATLAB** where the goal is to f
 
 
 # Key Findings:
+The optimization model selected Coca Cola (ad 2) and YerbaMate (ad 5) as the profit-maximizing advertisements. This combination yields a maximum profit of $1,500, the highest achievable under the given conflict constraints. The result highlights how integer optimization ensures feasible selections while still prioritizing the most profitable options.
 
 # Contributions:
